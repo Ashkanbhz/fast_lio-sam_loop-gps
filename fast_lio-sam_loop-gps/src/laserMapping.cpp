@@ -58,7 +58,7 @@
 #include <visualization_msgs/Marker.h>
 #include <sensor_msgs/PointCloud2.h>
 #include <geometry_msgs/Vector3.h>
-#include <livox_ros_driver/CustomMsg.h>
+#include <livox_ros_driver2/CustomMsg.h>
 #include <std_srvs/Empty.h>
 #include <visualization_msgs/MarkerArray.h>
 #include <tf/transform_datatypes.h>
